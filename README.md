@@ -1,4 +1,4 @@
-# Air Quality:sparkles:
+# Air Quality ✨
 ## Setup Environment
 ```
 conda create --name main-ds python=3.9
